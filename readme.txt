@@ -1,4 +1,4 @@
-The project contains explorary data analysis, building churn funnel of customers and evaluating statistical A/A/B test.
+The project contains exploratory data analysis, building churn funnel of customers and evaluating statistical A/A/B test.
 
 Description of the files:
 
